@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-23T23:58:52 BDT" name="Default suite" finished-at="2024-02-24T00:00:21 BDT" duration-ms="88573">
+    <groups>
+    </groups>
+    <test started-at="2024-02-23T23:58:52 BDT" name="Default test" finished-at="2024-02-24T00:00:21 BDT" duration-ms="88573">
+      <class name="ccv1.testcases.YahooMailTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:ccv1.testcases.YahooMailTest@4d5d943d]" started-at="2024-02-23T23:58:52 BDT" name="setup" finished-at="2024-02-23T23:59:07 BDT" duration-ms="15331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TotalLinkTest()[pri:0, instance:ccv1.testcases.YahooMailTest@4d5d943d]" started-at="2024-02-23T23:59:08 BDT" name="TotalLinkTest" finished-at="2024-02-24T00:00:21 BDT" duration-ms="73186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TotalLinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ccv1.testcases.YahooMailTest@4d5d943d]" started-at="2024-02-24T00:00:21 BDT" name="tearDown" finished-at="2024-02-24T00:00:21 BDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ccv1.testcases.YahooMailTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
